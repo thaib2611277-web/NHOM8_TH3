@@ -8,7 +8,7 @@
 - **Điểm BT lớn & Điểm LT:** Dò tìm lần lượt từ bảng *Điểm bài tập lớn* và *Điểm lý thuyết*.
 #### b. Tính toán & Xử lý kết quả
 - **Điểm tổng:** 
-  - Nếu $\text{Điểm LT} = -3$ thì $\text{Điểm tổng} = 0$[span_3](start_span)[span_3](end_span).
+  - Nếu $\text{Điểm LT} = -3$ thì $\text{Điểm tổng} = 0$.
   - Ngược lại: $\text{Điểm tổng} = \text{Điểm TH1} + \text{Điểm TH2} + \text{Điểm TH3} + \text{Điểm BT lớn} + 0.6 \times \text{Điểm LT}$ (làm tròn 1 chữ số thập phân).
 - **Điểm theo thang điểm 10:**
   - Nếu $\text{Điểm BT lớn} = 0$ hoặc nghỉ quá 2 buổi (ký tự đầu Mã SV $> 2$) thì điểm bằng $0$.
